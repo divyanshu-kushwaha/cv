@@ -1,0 +1,37 @@
+body{
+    background-color:rgb(54, 51, 51);
+}
+
+hr{
+    background-color:rgb(54, 51, 51);
+    height: 0px;
+    width: 5%;
+    border-style: dotted none none;
+    border-color: rgb(218, 211, 211);
+    border-width: 5px;
+}
+
+h1{
+    color: yellow;
+}
+
+h3{
+    color: rgb(75, 201, 240);
+}
+
+p{
+    color: azure;
+    font-size: 18px;
+
+}
+ul{
+    color: azure;
+    font-size: 18px;
+}
+ol{
+    color: azure;
+    font-size: 20px;
+}
+a{
+    color: aqua;
+}
